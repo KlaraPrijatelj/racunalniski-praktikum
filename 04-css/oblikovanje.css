@@ -49,6 +49,15 @@ h2 {
     background-color: rgb(51, 0, 102, 0.1);
 }
 
-div {
-    
+.slika {
+    font-size: 0.9em;
+    font-weight: 40%;
+    text-align: left;
+    float: right;
+    margin-left: 2em;
+}
+
+.slika img {
+    width: 100%;
+    height: auto;
 }
