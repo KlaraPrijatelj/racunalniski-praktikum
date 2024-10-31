@@ -60,4 +60,13 @@ h2 {
 .slika img {
     width: 100%;
     height: auto;
+    border-radius: 50%;
+}
+
+.slika p:last-child {font-size: 0.8em;}
+
+.slika p:nth-child(0) {margin-top: 1cm;}
+
+.slika p::before {
+    padding-right: 10px;
 }
